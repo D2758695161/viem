@@ -1,5 +1,11 @@
 # viem
 
+## 2.47.8
+
+### Patch Changes
+
+- [#4432](https://github.com/wevm/viem/pull/4432) [`3aa680df95bda40adc9306749e0fd46b93cc6bde`](https://github.com/wevm/viem/commit/3aa680df95bda40adc9306749e0fd46b93cc6bde) Thanks [@jxom](https://github.com/jxom)! - **viem/tempo:** Added access key signature verification support to `verifyHash` via `mode: 'allowAccessKey'`.
+
 ## 2.47.7
 
 ### Patch Changes
